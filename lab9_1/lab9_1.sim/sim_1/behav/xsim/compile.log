@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/tiran/lab9_1/lab9_1.srcs/sources_1/new/lab9_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'lab9_1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/tiran/lab9_1/lab9_1.srcs/sim_1/new/testlab9_1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'testlab9_1'
